@@ -5,6 +5,7 @@ import {ChallengesProvider} from "../contexts/ChallengesContext";
 function MyApp({Component, pageProps}) {
 
     return (
+        /* Context for all application */
         <ChallengesProvider>
             <Component {...pageProps} />
         </ChallengesProvider>
