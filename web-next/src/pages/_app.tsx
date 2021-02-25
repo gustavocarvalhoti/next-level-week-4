@@ -1,8 +1,14 @@
 import '../styles/global.css';
+import {ChallengesProvider} from "../contexts/ChallengesContext";
 
 /* For use every pages, sidebar for example */
 function MyApp({Component, pageProps}) {
-    return <Component {...pageProps} />
+
+    return (
+        <ChallengesProvider>
+            <Component {...pageProps} />
+        </ChallengesProvider>
+    )
 }
 
-export default MyApp
+export default MyApp;
