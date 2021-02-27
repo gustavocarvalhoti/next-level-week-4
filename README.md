@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img alt="Happy" src=".github/logo.svg" height="100px">
-</h1>
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gustavocarvalhoti/next-level-week-3?color=15c3d6">
   <a href="https://github.com/gustavocarvalhoti/next-level-week-3/commits/main">
@@ -25,26 +22,29 @@
 <br>
 
 <p align="center">
-    <img alt="Screens" src=".github/happy-screens.png" height="350px" />
+    <img alt="Screens" src=".github/nlw4-01.png" height="350px" />
 </p>
 
 ## :bookmark: About
 
-**happy** is a platform to link children care institutions with people interested in help. This project was implemented during the **Next Level Week #3** of **[Rocketseat](https://rocketseat.com.br/)**.
+**happy** is a platform to link children care institutions with people interested in help. This project was implemented
+during the **Next Level Week #3** of **[Rocketseat](https://rocketseat.com.br/)**.
 
-<br>
+<br/>
+https://moveit-gus-eight.vercel.app/
+<br/>
 
 ## :computer: Technologies
 
--  **[Typescript](https://www.typescriptlang.org/)**
--  **[Node.js](https://nodejs.org/)**
--  **[Express](https://expressjs.com/)**
--  **[Knex](http://knexjs.org/)**
--  **[SQLite](https://www.sqlite.org/)**
--  **[ReactJS](https://reactjs.org/)**
--  **[React Native](http://facebook.github.io/react-native/)**
--  **[Expo](https://expo.io/)**
--  **[Axios](https://github.com/axios/axios)**
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[Node.js](https://nodejs.org/)**
+- **[Express](https://expressjs.com/)**
+- **[Knex](http://knexjs.org/)**
+- **[SQLite](https://www.sqlite.org/)**
+- **[ReactJS](https://reactjs.org/)**
+- **[React Native](http://facebook.github.io/react-native/)**
+- **[Expo](https://expo.io/)**
+- **[Axios](https://github.com/axios/axios)**
 
 <br>
 
@@ -62,15 +62,15 @@
 ### :heavy_check_mark: **Prerequisites**
 
 The following software must be installed:
-  
-  - **[Node.js](https://nodejs.org/en/)**
-  - **[Git](https://git-scm.com/)**
-  - **[NPM](https://www.npmjs.com/)** or **[Yarn](https://yarnpkg.com/)**
-  - **[Expo](https://expo.io/)** 
-  - **[Expo App](https://play.google.com/store/apps/details?id=host.exp.exponent)**
+
+- **[Node.js](https://nodejs.org/en/)**
+- **[Git](https://git-scm.com/)**
+- **[NPM](https://www.npmjs.com/)** or **[Yarn](https://yarnpkg.com/)**
+- **[Expo](https://expo.io/)**
+- **[Expo App](https://play.google.com/store/apps/details?id=host.exp.exponent)**
 
 <br>
-  
+
 ### :arrow_down: **Cloning the repository**
 
 ```sh
@@ -79,7 +79,7 @@ The following software must be installed:
 
 <br>
 
-### :arrow_forward:	**Running the applications**
+### :arrow_forward:    **Running the applications**
 
 - :package: API
 
@@ -116,7 +116,9 @@ The following software must be installed:
 <br>
 
 ## :memo: License
+
 This project is under the **MIT** license.
 
 ## :memo: Extras
+
 https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4 <- Version 2.0
