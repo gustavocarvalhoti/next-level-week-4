@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-    <img alt="Screens" src=".github/nlw4-01.png" height="350px" />
+    <img alt="Screens" src=".github/nlw4-01.png" width="90%"/>
 </p>
 
 ## :bookmark: About
